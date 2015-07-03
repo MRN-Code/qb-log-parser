@@ -1,0 +1,8 @@
+{
+    "input": {
+        "assessment": "/coins/mnt/ni/qb_logs/june302015/assessquery",
+        "subject": "/coins/mnt/ni/qb_logs/june302015/subjectinsert"
+    },
+    "output": "./qb_parser_output",
+    "queryFilterRegex": "ESCHOELL"
+}
